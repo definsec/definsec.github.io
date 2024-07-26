@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://definsec.github.io/sitemap.html.gz
+Sitemap: https://definsec.github.io/app/sitemap.html.gz
+Sitemap: https://definsec.github.io/assets/sitemap.html.gz
+Sitemap: https://definsec.github.io/css/sitemap.html.gz
+Sitemap: https://definsec.github.io/includes/sitemap.html.gz
+Sitemap: https://definsec.github.io/item/sitemap.html.gz
+Sitemap: https://definsec.github.io/src/sitemap.html.gz
